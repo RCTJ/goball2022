@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle goball2022",
+        "command": "goball2022:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "goball2022",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "goball2022:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

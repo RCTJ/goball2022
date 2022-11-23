@@ -1,0 +1,18 @@
+{
+  "name": "goball2022",
+  "main": "./lib/goball2022",
+  "version": "0.0.0",
+  "description": "้นแชมป์ได้ทุกถ้วย! รวมแข้งดังพลาด ไปบอลโลก 2022",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "goball2022:toggle"
+  },
+  "repository": "https://github.com/RCTJ/goball2022",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
