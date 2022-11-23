@@ -1,7 +1,7 @@
 {
   "name": "goball2022",
   "main": "./lib/goball2022",
-  "version": "0.0.0",
+  "version": "1.1.0",
   "description": "ลุ้นแชมป์ได้ทุกถ้วย! รวมแข้งดังพลาด ไปบอลโลก 2022",
   "keywords": [
   ],
